@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Toyota Camry",
+    "ProductionYear": 2022,
+    "MaxSpeed": 210
+  },
+  {
+    "Name": "BMW X5",
+    "ProductionYear": 2023,
+    "MaxSpeed": 250
+  },
+  {
+    "Name": "Audi A4",
+    "ProductionYear": 2021,
+    "MaxSpeed": 240
+  },
+  {
+    "Name": "Mercedes-Benz C-Class",
+    "ProductionYear": 2020,
+    "MaxSpeed": 230
+  },
+  {
+    "Name": "Honda Civic",
+    "ProductionYear": 2019,
+    "MaxSpeed": 200
+  },
+  {
+    "Name": "Ford Mustang",
+    "ProductionYear": 2023,
+    "MaxSpeed": 280
+  },
+  {
+    "Name": "Volkswagen Golf",
+    "ProductionYear": 2022,
+    "MaxSpeed": 220
+  },
+  {
+    "Name": "Tesla Model 3",
+    "ProductionYear": 2023,
+    "MaxSpeed": 260
+  },
+  {
+    "Name": "Porsche 911",
+    "ProductionYear": 2021,
+    "MaxSpeed": 320
+  },
+  {
+    "Name": "Nissan Qashqai",
+    "ProductionYear": 2020,
+    "MaxSpeed": 190
+  }
+]
